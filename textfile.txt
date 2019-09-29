@@ -1,0 +1,10 @@
+imageUrl
+recipeFor
+recipeName
+dateCreated
+prep
+cook
+yields
+ingredients
+recipe_method
+ 
